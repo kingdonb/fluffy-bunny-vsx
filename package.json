@@ -1,6 +1,6 @@
 {
   "name": "fluffy-bunny-example",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "publisher": "fluffy-bunny-vsx",
   "displayName": "Fluffy Bunny",
   "description": "Example extension",
