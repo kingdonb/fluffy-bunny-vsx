@@ -1,22 +1,22 @@
 {
-  "name": "marquee",
+  "name": "fluffy-bunny-example",
   "version": "4.0.0",
   "publisher": "fluffy-bunny-vsx",
-  "displayName": "Marquee",
-  "description": "Stay organized with minimal context switching, all inside your VS Code.",
-  "author": "Sebastian Tiedtke <sebastian@stateful.com>",
+  "displayName": "Fluffy Bunny",
+  "description": "Example extension",
+  "author": "Kingdon Barrett <kingdon@teamhephy.com>",
   "contributors": [
-    "Christian Bromann <christian@stateful.com>"
+    "Kingdon Barrett <kingdon@teamhephy.com>"
   ],
   "icon": "assets/icon.png",
   "license": "MIT",
   "homepage": "https://marquee.stateful.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/stateful/vscode-marquee.git"
+    "url": "git://github.com/kingdonb/fluffy-bunny-vsx.git"
   },
   "bugs": {
-    "url": "https://github.com/stateful/vscode-marquee/issues"
+    "url": "https://github.com/kingdonb/fluffy-bunny-vsx/issues"
   },
   "private": true,
   "engines": {
